@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-This is a number guessing game, can be played by 1/2 players for fun.
+This is a number guessing game, can be played by 1 or 2 players for fun.
 
 ## Description
 
