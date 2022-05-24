@@ -26,6 +26,6 @@ for invalid guess. For example, no penaly for gussing 45 in this scenario.
 
 ## Author
 
-Riaz Khan [email](mdriazahmed.khan@jacks.sdstate.edu)
+[Riaz Khan](https://github.com/riazakhan94)
 
 
